@@ -1,0 +1,5 @@
+.env
+venv
+./NaiveRAG/data/*
+./Assignment-1/PDF/data
+./Assignment-1/Website/data
