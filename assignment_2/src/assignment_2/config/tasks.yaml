@@ -1,0 +1,9 @@
+research_merchandise:
+  description: Search for specific anime merchandise based on {anime_name}
+  agent: anime_researcher
+  expected_output: List of relevant {item_type} with basic details
+
+analyze_prices:
+  description: Analyze prices and compare deals for found merchandise
+  agent: price_analyzer
+  expected_output: Price analysis report with best value recommendations
